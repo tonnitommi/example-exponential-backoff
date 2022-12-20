@@ -1,0 +1,11 @@
+tasks:
+  Run things:
+    robotTaskName: Run things
+condaConfigFile: conda.yaml
+ignoreFiles:
+- .gitignore
+artifactsDir: output
+PATH:
+- .
+PYTHONPATH:
+- .
